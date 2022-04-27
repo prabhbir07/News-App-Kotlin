@@ -3,7 +3,7 @@ News App Kotlin | MVVM | Room | Retrofit |
 
 
 
-Android Application which uses [News API](https://newsapi.org/) to display Top Headlines and finds different Articles from all over the web. Also, gives users the ability to save those articles to refer to them later.
+Android Application which uses [News API](https://newsapi.org/) to display Top Headlines and finds different Articles from all over the web. Also, there is a feature to show articles category wise.
 
 
 ### News App demo
@@ -23,7 +23,6 @@ https://bit.ly/NewsApp_video
 ### Libraries Used
 * [Retrofit](https://square.github.io/retrofit/)
 * [Glide](https://github.com/bumptech/glide)
-* [PrettyTime](https://github.com/ocpsoft/prettytime)
 
 ### API Used
 * [News API](https://newsapi.org/)
