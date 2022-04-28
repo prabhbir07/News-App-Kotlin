@@ -11,7 +11,7 @@ https://bit.ly/NewsApp_video
 
 ## Screenshots
 
-![](https://firebasestorage.googleapis.com/v0/b/news-app-7052f.appspot.com/o/news%20app%20banner.jpg?alt=media&token=76dff6cf-cba5-4459-9ac4-1720a0096ec7)
+![](https://firebasestorage.googleapis.com/v0/b/prabhbir07-github.appspot.com/o/images%2Fnews%20app%2Fnews%20app%20banner.jpg?alt=media&token=9a744518-dec4-41db-8abe-bfd34711a99a)
 
 
 ### Android Architecture Components
